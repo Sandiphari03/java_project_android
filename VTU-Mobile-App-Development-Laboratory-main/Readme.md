@@ -1,4 +1,4 @@
-First 8 programs in the VTU, Belagavi syllabus for Android App Development Laboratory
+
 
 
 
@@ -40,8 +40,4 @@ First 8 programs in the VTU, Belagavi syllabus for Android App Development Labor
 
 ********************************************************************************************************************************************************************
 
-If this helped you in anyway please consider donating which would help me a lot and motivate me to do much more 
-Check out this link below :)
-
-https://www.buymeacoffee.com/RohanSwift
 
